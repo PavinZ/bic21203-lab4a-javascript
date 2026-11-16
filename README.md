@@ -22,9 +22,14 @@ This repository contains my solutions for Lab #4a[cite: 1], focusing on modern c
 
 ### Question 1 — Interactive Text Changer
 ![Question 1 Output](q1/q1-output1.png)
+![Question 1 Output](q1/q1-output2.png)
 
 ### Question 2 — Smart Number Validator
 ![Question 2 Output](q2/q2-output1.png)
+![Question 2 Output](q2/q2-output2.png)
+![Question 2 Output](q2/q2-output3.png)
+![Question 2 Output](q2/q2-output4.png)
 
 ### Question 3 — Dynamic Number Generator
 ![Question 3 Output](q3/q3-output1.png)
+![Question 3 Output](q3/q3-output2.png)

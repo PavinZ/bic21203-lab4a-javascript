@@ -18,3 +18,13 @@ This repository contains my solutions for Lab #4a[cite: 1], focusing on modern c
 3. **Question 2 (Smart Number Validator):** Open `q2/index.html` in your browser. Enter a value (e.g., `5`, `10`, `15`, `10.5`, `abc`, or leave it blank) and click **Check** to view the validation message.
 4. **Question 3 (Dynamic Number Generator):** Open `q3/index.html` in your browser. Click **Generate** to display an ordered list from 1 to 5 without duplicating items on repeated clicks.
 
+## Output Screenshots
+
+### Question 1 — Interactive Text Changer
+![Question 1 Output](q1/q1-output.png)
+
+### Question 2 — Smart Number Validator
+![Question 2 Output](q2/q2-output.png)
+
+### Question 3 — Dynamic Number Generator
+![Question 3 Output](q3/q3-output.png)
